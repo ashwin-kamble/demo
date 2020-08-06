@@ -25,6 +25,7 @@ public class ColorsController {
 
 	@GetMapping("/colors")
 	public List<Color> getEmployees() {
+		
 		return colorsService.getColours();
 	}
 }
