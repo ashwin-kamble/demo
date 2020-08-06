@@ -19,7 +19,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
 	</properties>
 	
 	<scm>
-		<connection>scm:git:https://github.com/ashwin-kamble/demo</connection>
+		<connection>scm:git:https://github.com/ashwin-kamble/demo.git</connection>
 	</scm>
 
 	<dependencies>
