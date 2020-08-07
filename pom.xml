@@ -64,6 +64,8 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
 				<version>1.9.5</version>
 				<configuration>
 					<tag>v${project.version}</tag>
+					<username>ashwin-kamble</username>
+          			<password>Ashwin87@git</password>
 				</configuration>
 			</plugin>
 
