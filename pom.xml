@@ -21,7 +21,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
 	<scm>
 		<connection>scm:git:https://github.com/ashwin-kamble/demo.git</connection>
 		<developerConnection>scm:git:https://github.com/ashwin-kamble/demo.git</developerConnection>
-	    <url>https://github.com/ashwin-kamble/tree/master</url>
+	    <url>https://github.com/ashwin-kamble/demo/tree/master</url>
 	    
 		<!-- <connection>scm:git:git://github.com/dellemc-symphony/root-parent.git</connection>
 	    <developerConnection>scm:git:git://github.com/dellemc-symphony/root-parent.git</developerConnection>
