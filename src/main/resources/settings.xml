@@ -1,5 +1,8 @@
-<server>
-  <id>github.com</id>
-  <username>ashwin-kamble</username>
-  <password>Ashwin87@git</password>
-</server>
+<?xml version="1.0" encoding="UTF-8"?>
+<servers>
+	<server>
+	  <id>github.com</id>
+	  <username>ashwin-kamble</username>
+	  <password>Ashwin87@git</password>
+	</server>
+</servers>
